@@ -44,9 +44,7 @@ DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.co
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitthat.com
@@ -56,7 +54,6 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-KEYWORD,instagram
 
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
@@ -66,3 +63,14 @@ DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,istories.media
 DOMAIN-SUFFIX,rutracker.cc
+
+# twitter or X
+
+DOMAIN-SUFFIX,scroll.com
+DOMAIN-SUFFIX,zipbox.twitter.biz
+DOMAIN-SUFFIX,shopify-staging.twitterintegration.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,shopify.twitterintegration.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,proxsee.pscp.tv
