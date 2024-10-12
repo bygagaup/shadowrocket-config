@@ -75,6 +75,11 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,pscp.tv
 
+# discord
+
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,thetruestory.news
